@@ -1,7 +1,7 @@
 # -*- coding:Utf-8 -*-
 """Internal settings."""
 import os
-from gi.repository import GLib
+from git.repository import GLib
 from lutris.util.settings import SettingsIO
 
 PROJECT = "Lutris"
